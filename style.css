@@ -1,0 +1,20 @@
+.card {
+    background-color: rgb(112, 57, 5);
+    color: rgb(114, 199, 238);
+    border-radius: 15px;
+    border: 2px solid rgb(112, 57, 5);
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    position: relative;
+}
+.sale{
+    position: absolute;
+    background-color: rgb(247, 247, 142);
+    border: 2px;
+    border-radius: 35px;
+    padding: 4px;
+    right: 0.5%;
+    top: -5.1%
+}
